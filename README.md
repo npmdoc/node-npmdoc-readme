@@ -1,4 +1,7 @@
-# api documentation for  [readme (v0.6.0)](https://github.com/dominictarr/readme#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-readme.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-readme) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-readme.svg)](https://travis-ci.org/npmdoc/node-npmdoc-readme)
+# npmdoc-readme
+
+#### basic api documentation for  [readme (v0.6.0)](https://github.com/dominictarr/readme#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-readme.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-readme) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-readme.svg)](https://travis-ci.org/npmdoc/node-npmdoc-readme)
+
 #### display a module's readme in the terminal
 
 [![NPM](https://nodei.co/npm/readme.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/readme)
